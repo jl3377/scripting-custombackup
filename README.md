@@ -1,3 +1,3 @@
-# SHELL SCRIPT CUSTOM BACKUPS
+# CUSTOM BACKUPS
 
 # Script to make custom backups
